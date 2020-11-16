@@ -1,1 +1,1 @@
-# ML_DA_Coursera_Yandex_MIPT
+# Machine Learning and Data Analysis Coursera Specialization from Yandex and MIPT (Специализация Машинное обучение и анализ данных)
